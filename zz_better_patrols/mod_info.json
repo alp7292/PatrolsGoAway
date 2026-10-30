@@ -1,0 +1,9 @@
+{
+    "id": "zz_better_patrols",
+    "name": "Better Patrols",
+    "author": "DEEPSEEK",
+    "version": "1.0",
+    "description": "When your transponder is off and your fleet is significantly stronger, friendly patrols avoid you the same way weaker hostile fleets do instead of investigating you and damaging relations.",
+    "gameVersion": "0.98a-RC8",
+    "modPlugin": "data.scripts.BetterPatrolsPlugin"
+}
